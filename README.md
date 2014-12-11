@@ -117,6 +117,7 @@ Total: Provide total savings
 Typical cost of implementation: £20 000
 
 Your return on investment in the first year will be {}
+
 ---------------------
 **Assumptions:** 
 
