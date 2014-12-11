@@ -18,7 +18,7 @@ class Roi
      * @param $rup Reduce under performance
      * @return string
      */
-    function getSavingofReduceUnderPerformance($noe, $rup)
+    public function getSavingofReduceUnderPerformance($noe, $rup)
     {
         return number_format($noe * 0.1 * $rup, 2, '.', '');
     }
@@ -28,7 +28,7 @@ class Roi
      * @param $empattriper
      * @return string
      */
-    function getSavingofReduceAttritionCosts($noe, $empattriper)
+    public function getSavingofReduceAttritionCosts($noe, $empattriper)
     {
         return number_format($noe * 25000 * ($empattriper / 100), 2, '.', '');
     }
@@ -38,7 +38,7 @@ class Roi
      * @param $feeearnempper
      * @return string
      */
-    function getSavingofFewerWastedChargeableHours($noe, $feeearnempper)
+    public function getSavingofFewerWastedChargeableHours($noe, $feeearnempper)
     {
         return number_format($feeearnempper * 2 * 150, 2, '.', '');
     }
@@ -49,7 +49,7 @@ class Roi
      * @return string
      */
 
-    function getSavingofFewerWastedAdministrationHours($noe, $hrs)
+    public function getSavingofFewerWastedAdministrationHours($noe, $hrs)
     {
         $hrdToEmpRatio = ($hrs / $noe);
         if ($hrdToEmpRatio >= 0.002) {
