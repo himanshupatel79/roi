@@ -26,11 +26,7 @@ You can use any technology you choose, but PHP must be part of the solution.
 
 User story 
 
-The user needs to be able to enter a few values and get feedback on what the costs of the 
-
-implementation would be. The user is presented with questions, and then to complete a few 
-
-answers to understand costs.
+The user needs to be able to enter a few values and get feedback on what the costs of the implementation would be. The user is presented with questions, and then to complete a few answers to understand costs.
 
 Questions
 
@@ -38,15 +34,9 @@ Questions
 
 Result: Store number of employees
 
-2) Reduce under performance: Every organisation has a number of under-performers. The real 
+2) Reduce under performance: Every organisation has a number of under-performers. The real challenge is to identify under-performance and then deal with it appropriately (either by improving Potential Benefit or headcount) We will help you identify underperformers quickly. 
 
-challenge is to identify under-performance and then deal with it appropriately (either by 
-
-improving Potential Benefit or headcount) We will help you identify underperformers quickly. 
-
-Typically, 10% of an organisation's employees will underperform. 
-
-Our software will typically identify your underachievers within the first 3 months.
+Typically, 10% of an organisation's employees will underperform.  Our software will typically identify your underachievers within the first 3 months.
 
 What is your average cost per employee for under-performance? (accept value in pounds)  
 
@@ -56,37 +46,17 @@ User Feedback: Your saving is {} 
 
 3) Reduce attrition costs 
 
-Nowadays, people expect to be valued, developed and given regular feedback. If people are not 
-
-managed effectively or rewarded appropriately, they will leave. In professional 
-
-services, this cost is much higher due to the higher average salaries, amount of training invested, 
-
-client relationships built and the high cost of recruiting new people. Typically, an organisation will 
-
-pay 17% attrition costs over and above the employee's salary. What is the attrition rate of your 
+Nowadays, people expect to be valued, developed and given regular feedback. If people are not managed effectively or rewarded appropriately, they will leave. In professional services, this cost is much higher due to the higher average salaries, amount of training invested, client relationships built and the high cost of recruiting new people. Typically, an organisation will pay 17% attrition costs over and above the employee's salary. What is the attrition rate of your 
 
 organisation? (accept a percentage)  
 
-Result: Take attrition percentage, calculate the number of employees provided in question 1 (so if 
-
-they enter 10% and the employee number was 50, the answer is 5) and multiply by the average 
-
-salary (£25000*17%). 
+Result: Take attrition percentage, calculate the number of employees provided in question 1 (so if they enter 10% and the employee number was 50, the answer is 5) and multiply by the average salary (£25000*17%). 
 
 Feedback: Assuming an average salary of£25000    we will save you {}
 
 4) Fewer wasted chargeable hours
 
-We enable the removal of paper based processes and the high administrative burden for Fee 
-
-Earners. ObjectiveManager transitions objective setting from a once yearly ‘paperwork exercise’ to a 
-
-way of working, increasing focus on key business goals. If every Fee-Earner saved just 2 hours per 
-
-annum, they can employ that time more effectively. What if your fee-earners re-gained just 2 
-
-chargeable hours each (@£150hr) every year? What percentage of your employees are fee earners?
+We enable the removal of paper based processes and the high administrative burden for Fee Earners. ObjectiveManager transitions objective setting from a once yearly ‘paperwork exercise’ to a way of working, increasing focus on key business goals. If every Fee-Earner saved just 2 hours per annum, they can employ that time more effectively. What if your fee-earners re-gained just 2 chargeable hours each (@£150hr) every year? What percentage of your employees are fee earners?
 
 Result: Take input and multiply 2 hours @£150
 
@@ -94,19 +64,9 @@ Feedback: You could save {} for your fee earners
 
 5) Fewer wasted administration hours
 
-The average cost of one HR Officer’s time running and collating paper based systems for 
+The average cost of one HR Officer’s time running and collating paper based systems for up to 500 people is £7,800. This figure, we know is very conservative and tends to be much higher in professional services firms where the review process can be challenging and iterative. What is the size of your HR department?
 
-up to 500 people is £7,800. This figure, we know is very conservative and tends to be 
-
-much higher in professional services firms where the review process can be 
-
-challenging and iterative. What is the size of your HR department?
-
-Result: Take input, calculate ratio of HR dept. to employees. If HR employees administers <=500 
-
-employees, then cost is £7800 per HR employee. If the HR employees administers >=500 employees, 
-
-then add £15.6 increase per employee over and above the £7800. 
+Result: Take input, calculate ratio of HR dept. to employees. If HR employees administers <=500 employees, then cost is £7800 per HR employee. If the HR employees administers >=500 employees, then add £15.6 increase per employee over and above the £7800. 
 
 Feedback: We can save you ()
 
